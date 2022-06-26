@@ -1,0 +1,6 @@
+<div>
+    {{ $header }}
+
+    {{ $slot }}
+
+</div>
